@@ -1,0 +1,24 @@
+ls                                                                                                                                
+ls-l                                                                                                                              
+ls -l                                                                                                                             
+rm testing.py                                                                                                                     
+git init                                                                                                                          
+ls -l                                                                                                                             
+ls                                                                                                                                
+                                                                                                                          
+ls                                                                                                                                
+git status                                                                                                                        
+clear                                                                                                                             
+  16 git status                                                                                                                        
+  17 git add testing.py                                                                                                                
+  18 ls                                                                                                                                
+  19 git status  
+  rm testing.py                                                                                                                     
+  27 git status                                                                                                                        
+  28 git restore testing.py                                                                                                            
+  29 clear                                                                                                                             
+  30 git status                                                                                                                        
+  31 history                                                                                                                           
+  32 clear                                                                                                                                                                          
+  34 git remote -v                                                                                                                     
+  37 git push origin master    
